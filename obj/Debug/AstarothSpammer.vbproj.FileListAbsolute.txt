@@ -1,0 +1,12 @@
+C:\Users\MONSTERMC\Downloads\New folder (9)\obj\Debug\AstarothSpammer.exe.config
+C:\Users\MONSTERMC\Downloads\New folder (9)\obj\Debug\MainForm.resources
+C:\Users\MONSTERMC\Downloads\New folder (9)\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Downloads\New folder (9)\obj\Debug\AstarothSpammer.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\New folder (9)\obj\Debug\AstarothSpammer.exe.licenses
+C:\Users\MONSTERMC\Downloads\New folder (9)\obj\Debug\AstarothSpammer.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\New folder (9)\bin\Debug\AstarothSpammer.exe.config
+C:\Users\MONSTERMC\Downloads\New folder (9)\bin\Debug\AstarothSpammer.exe
+C:\Users\MONSTERMC\Downloads\New folder (9)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MONSTERMC\Downloads\New folder (9)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MONSTERMC\Downloads\New folder (9)\obj\Debug\AstarothSpammer.vbproj.CopyComplete
+C:\Users\MONSTERMC\Downloads\New folder (9)\obj\Debug\AstarothSpammer.exe
